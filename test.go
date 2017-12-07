@@ -5,6 +5,6 @@ import (
 )
 
 func main() {
-	// push by atom 2
+	// push by atom 1
 	fmt.Printf("Hello %s\n", "jsen")
 }
